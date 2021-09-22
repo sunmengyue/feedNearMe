@@ -1,0 +1,7 @@
+.rec.rec-dot {
+  display: none;
+}
+
+.rec.rec-arrow:disabled {
+  visibility: hidden;
+}

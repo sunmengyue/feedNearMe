@@ -1,0 +1,2105 @@
+{
+  "count": 5000,
+  "overflow": true,
+  "next": "https://api.predicthq.com/v1/events/?limit=50&offset=50",
+  "previous": null,
+  "results": [
+    {
+      "relevance": 0,
+      "id": "267dvAnkBoiMukvDkn",
+      "title": "The Australian Bee Gees",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "Las Vegas, NV 89109\nUnited States of America",
+          "entity_id": "qTfrNtHLHBXRQ4d4tZgvpU",
+          "name": "Tournament of Kings",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-03T18:28:04Z",
+      "first_seen": "2021-06-28T00:48:00Z",
+      "timezone": "America/Los_Angeles",
+      "location": [-115.175777, 36.0987307],
+      "geo": {
+        "geometry": {
+          "coordinates": [-115.175777, 36.0987307],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5509151", "5501879", "5500639"],
+        ["6295630", "6255149", "6252001", "5509151", "5501879", "5506956"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "28QZDGdmHbMeia8oNR",
+      "title": "Kane Brown with Russell Dickerson and Chris Lane",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 74,
+      "local_rank": 97,
+      "aviation_rank": 0,
+      "phq_attendance": 15200,
+      "entities": [
+        {
+          "formatted_address": "1 AT&T Center Parkway\nSan Antonio, TX 78219\nUnited States of America",
+          "entity_id": "RdAwDhv7A3F3hUqvcMNQUk",
+          "name": "AT&T Center",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-06-29T01:14:58Z",
+      "first_seen": "2021-04-09T00:48:17Z",
+      "timezone": "America/Chicago",
+      "location": [-98.43746519999999, 29.4270201],
+      "geo": {
+        "geometry": {
+          "coordinates": [-98.43746519999999, 29.4270201],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4736286", "4674023", "4725824"],
+        ["6295630", "6255149", "6252001", "4736286", "4674023", "4726206"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "2QdH8EZwAWqhLTnBRg",
+      "title": "AHL - Chicago Wolves vs Rockford IceHogs",
+      "description": "",
+      "category": "sports",
+      "labels": ["ice-hockey", "sport"],
+      "rank": 66,
+      "local_rank": 87,
+      "aviation_rank": 0,
+      "phq_attendance": 6180,
+      "entities": [
+        {
+          "formatted_address": "6920 Mannheim Road\nRosemont, IL 60018\nUnited States of America",
+          "entity_id": "sZ9ENd2CBSZDuesttqwrVe",
+          "name": "Allstate Arena",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "predicted_end": "2021-10-17T02:40:00Z",
+      "updated": "2021-09-17T18:21:23Z",
+      "first_seen": "2021-05-25T01:14:58Z",
+      "timezone": "America/Chicago",
+      "location": [-87.88783, 42.005259],
+      "geo": {
+        "geometry": {
+          "coordinates": [-87.88783, 42.005259],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4896861", "4888671", "4908179"],
+        ["6295630", "6255149", "6252001", "4896861", "4890213", "4916288"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "2bdvhhHrPGsFESLk7m",
+      "title": "Entwined: plants and people",
+      "description": "Pause, breathe and notice the complexity and beauty of plants.\n\nEntwined: plants and people explores our intrinsic relationship with plants through photography, illustrations, immersive projections, and historical objects.  \n\nIn this evocative State Library of Queensland exhibition, Entwined displays the transformative works of award-winning creatives as they document and reinterpret plant life in modern Australia. \n\nEntwined also digs into State Library’s rare and beautiful botanical collections, exploring our day-to-day connection with plants, unfurling fascinating historical and contemporary stories in the process.  \n\nSee how our lives are experienced and, at times, defined through our interactions with plants across social, emotional, scientific, and creative endeavours.  \n\nHighlights include:   \n\nJoseph Banks' Florilegium and the works of Ferdinand Bauer  \n\nMan&Wah’s immersive videography and donna davis' creative plant displacements\n\nThe rare and unique  Queensland Nineteenth Century Fern Album 1883-1884\n\nAboriginal and Torres Strait Islander traditional knowledge of plants as technology in Bicornual baskets, Wujal Wujal mullet spear making and Kowanyama basket making  \n\nEnjoy in-person tours of the exhibition to deepen your connection to plants.  \n\nJoin a workshop or talking event to continue the broader conversation of plants and people.",
+      "category": "expos",
+      "labels": ["expo"],
+      "rank": 45,
+      "local_rank": 61,
+      "aviation_rank": null,
+      "phq_attendance": 562,
+      "entities": [
+        {
+          "entity_id": "LWwX4uMdLiUZgixAcQvsuN",
+          "name": "Entwined: plants and people",
+          "type": "event-group",
+          "category": "expos",
+          "labels": ["event-group", "expo", "recurring"]
+        },
+        {
+          "formatted_address": "Stanley Place\nSouth Brisbane QLD 4101\nAustralia",
+          "entity_id": "DAXXdMtHNuABLbATt4z7iX",
+          "name": "Red Box, State Library of Queensland",
+          "type": "venue"
+        }
+      ],
+      "duration": 25200,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T07:00:00Z",
+      "updated": "2021-05-26T07:18:36Z",
+      "first_seen": "2021-05-26T06:33:36Z",
+      "timezone": "Australia/Brisbane",
+      "location": [153.0170096, -27.4714985],
+      "geo": {
+        "geometry": {
+          "coordinates": [153.0170096, -27.4714985],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "AU",
+      "place_hierarchies": [
+        ["6295630", "6255151", "2077456", "2152274", "7839562", "2174003"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "2jCiGrG6Yr796737Jh",
+      "title": "Richard Marx",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 54,
+      "local_rank": 66,
+      "aviation_rank": 0,
+      "phq_attendance": 1600,
+      "entities": [
+        {
+          "formatted_address": "2831 Boardwalk\nAtlantic City, NJ 08401\nUnited States of America",
+          "entity_id": "jYnAeJb5CBLeLYrGULs6XG",
+          "name": "Tropicana Showroom",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-06-29T12:48:49Z",
+      "first_seen": "2021-06-21T22:23:21Z",
+      "timezone": "America/New_York",
+      "location": [-74.4448716282, 39.3527739457],
+      "geo": {
+        "geometry": {
+          "coordinates": [-74.4448716282, 39.3527739457],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5101760", "4500561", "4501195"],
+        ["6295630", "6255149", "6252001", "5101760", "4500561", "4502962"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "38f7LRkb4BkvoGUKjq",
+      "title": "Andy Mineo with SonReal",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 16,
+      "local_rank": 31,
+      "aviation_rank": null,
+      "phq_attendance": 21,
+      "entities": [
+        {
+          "formatted_address": "1323 N Stemmons Fwy\nDallas, TX 75207-3730\nUnited States of America",
+          "entity_id": "prAZMqwpDUTGVtDxDziETR",
+          "name": "The HiFi - Dallas",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T12:19:40Z",
+      "first_seen": "2021-06-22T03:33:57Z",
+      "timezone": "America/Chicago",
+      "location": [-96.8144584, 32.7905621],
+      "geo": {
+        "geometry": {
+          "coordinates": [-96.8144584, 32.7905621],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4736286", "4684904", "4684888"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3AJ2FyUT3ZBNrhXCS6",
+      "title": "The Sixties Show",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 47,
+      "local_rank": 65,
+      "aviation_rank": 0,
+      "phq_attendance": 680,
+      "entities": [
+        {
+          "formatted_address": "286 Cabot Street\nBeverly, MA 01915\nUnited States of America",
+          "entity_id": "iuZWDRmuBPAG4nG4hWBvdr",
+          "name": "The Cabot - Cabot Performing Arts Center",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-14T21:38:28Z",
+      "first_seen": "2021-05-24T12:02:46Z",
+      "timezone": "America/New_York",
+      "location": [-70.8787004, 42.5513493],
+      "geo": {
+        "geometry": {
+          "coordinates": [-70.8787004, 42.5513493],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "6254926", "4935951", "4930505"],
+        ["6295630", "6255149", "6252001", "6254926", "4952349", "4930956"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3Dn6D5EG3kFKzh2pYs",
+      "title": "Daisychain",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 32,
+      "local_rank": 54,
+      "aviation_rank": 0,
+      "phq_attendance": 120,
+      "entities": [
+        {
+          "formatted_address": "308 S Illinois Ave (at W. Walnut St.)\nCarbondale, IL 62901\nUnited States",
+          "entity_id": "hpvfsficFbCxqEcTKXA3rH",
+          "name": "PK's",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-15T21:19:03Z",
+      "first_seen": "2021-09-15T21:18:43Z",
+      "timezone": "America/Chicago",
+      "location": [-89.2168649487, 37.7248680132],
+      "geo": {
+        "geometry": {
+          "coordinates": [-89.2168649487, 37.7248680132],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4896861", "4241687", "4235193"],
+        ["6295630", "6255149", "6252001", "4896861", "4241687", "4245336"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3GUKgNbQVHH8YjaL3a",
+      "title": "Roald Dahl's Charlie and the Chocolate Factory (Touring)",
+      "description": "The Landmark Theatre will follow the safety protocols of the CDC, State of New York and Onondaga County at the time of the performance, which may require wearing a mask to attend. Additional regulations may be implemented based on industry standards as well. Please check Landmarktheatre.org for updates.",
+      "category": "performing-arts",
+      "labels": ["entertainment", "music", "performing-arts"],
+      "rank": 53,
+      "local_rank": 71,
+      "aviation_rank": null,
+      "phq_attendance": 1445,
+      "entities": [
+        {
+          "formatted_address": "362 South Salina Street\nSyracuse, NY 13202\nUnited States of America",
+          "entity_id": "mGzF7L8pwAWAhhvYsGUEgz",
+          "name": "Landmark Theatre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-11T09:28:40Z",
+      "first_seen": "2021-08-11T09:25:29Z",
+      "timezone": "America/New_York",
+      "location": [-76.1529242, 43.0473001],
+      "geo": {
+        "geometry": {
+          "coordinates": [-76.1529242, 43.0473001],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5129867", "7839138"],
+        ["6295630", "6255149", "6252001", "5128638", "5129867", "5140405"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3KnBWhJ2oiGV2Si5h6",
+      "title": "Yesterday Once More - A Tribute to The Carpenters",
+      "description": "Yesterday Once More - A Tribute to The Carpenters, captures The Carpenters concert experience Live at The Linda May 1st 2020",
+      "category": "community",
+      "labels": ["concert", "music"],
+      "rank": 39,
+      "local_rank": 53,
+      "aviation_rank": null,
+      "phq_attendance": 272,
+      "entities": [
+        {
+          "formatted_address": "Albany, NY 12206\nUnited States of America",
+          "entity_id": "32zPdfuT9KVKXFD6VYSWR3C",
+          "name": "The Linda WAMC's Performing Arts Studio",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-06T15:42:45Z",
+      "first_seen": "2021-01-20T00:28:44Z",
+      "timezone": "America/New_York",
+      "location": [-73.7732103, 42.6658369],
+      "geo": {
+        "geometry": {
+          "coordinates": [-73.7732103, 42.6658369],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5106841", "5143620"],
+        ["6295630", "6255149", "6252001", "5128638", "5106841", "5106834"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3PtKk5ZLBsp2vL5oHF",
+      "title": "Snot",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 46,
+      "local_rank": 64,
+      "aviation_rank": 0,
+      "phq_attendance": 600,
+      "entities": [
+        {
+          "formatted_address": "4120 Woodward Avenue\nDetroit, MI 48201\nUnited States of America",
+          "entity_id": "ZHGzabqrHXUgJuZcmyY657",
+          "name": "Magic Stick",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T18:27:30Z",
+      "first_seen": "2021-07-20T07:26:43Z",
+      "timezone": "America/Detroit",
+      "location": [-83.0598865, 42.3511839],
+      "geo": {
+        "geometry": {
+          "coordinates": [-83.0598865, 42.3511839],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5001836", "5014227", "4990729"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3RwxbtmeJiQfnMCV9Q",
+      "title": "The Play That Goes Wrong",
+      "description": "",
+      "category": "performing-arts",
+      "labels": ["entertainment", "performing-arts"],
+      "rank": 23,
+      "local_rank": 25,
+      "aviation_rank": 0,
+      "phq_attendance": 47,
+      "entities": [
+        {
+          "formatted_address": "340 West 50th Street\nNew York, NY 10019\nUnited States of America",
+          "entity_id": "XPqFJjNVpiYdd5XAQw9gdu",
+          "name": "New World Stages",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T01:38:02Z",
+      "first_seen": "2021-09-17T01:12:16Z",
+      "timezone": "America/New_York",
+      "location": [-73.987589, 40.762763],
+      "geo": {
+        "geometry": {
+          "coordinates": [-73.987589, 40.762763],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5128594", "6332416"],
+        [
+          "6295630",
+          "6255149",
+          "6252001",
+          "5128638",
+          "5128594",
+          "7250946",
+          "5125771"
+        ]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3ZWdBGmoMHgMj6szra",
+      "title": "The Frontmen Of Country",
+      "description": "The Frontmen of Country features three singers who were the voices of three of the top Country bands of the 90s! Larry Stewart of Restless Heart, Tim Rushlow of Little Texas, and Richie McDonald of Lonestar have collectively sold over 30 million records and have over 50 Top 40 hits. They have a chemistry and brotherhood seldom matched, wowing audiences around the globe. Sponsored by Patterson Products",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 52,
+      "local_rank": 83,
+      "aviation_rank": null,
+      "phq_attendance": 1218,
+      "entities": [
+        {
+          "formatted_address": "1325 Outer Belt West\nEffingham, IL 62401\nUnited States of America",
+          "entity_id": "aJqrd5FyWZdXBDBAw2NaLb",
+          "name": "Effingham Performance Center",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-17T17:06:34Z",
+      "first_seen": "2021-07-17T17:05:50Z",
+      "timezone": "America/Chicago",
+      "location": [-88.5756093, 39.1373715],
+      "geo": {
+        "geometry": {
+          "coordinates": [-88.5756093, 39.1373715],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4896861", "4237730", "4237727"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3raKdM4QVkPUu7WrFg",
+      "title": "Sammy Rae & the Friends",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 42,
+      "local_rank": 65,
+      "aviation_rank": 0,
+      "phq_attendance": 400,
+      "entities": [
+        {
+          "formatted_address": "10 Pearl Street\nNorthampton, MA 01060\nUnited States of America",
+          "entity_id": "HvvfbfFcPYTy3nFTbm89Q2",
+          "name": "Pearl Street Night Club",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-02T21:46:50Z",
+      "first_seen": "2021-09-02T20:42:18Z",
+      "timezone": "America/New_York",
+      "location": [-72.62746, 42.31889],
+      "geo": {
+        "geometry": {
+          "coordinates": [-72.62746, 42.31889],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "6254926", "4938757", "4945819"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "3zztMNVaxeVXmh2mWQ",
+      "title": "Injury Reserve",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 44,
+      "local_rank": 62,
+      "aviation_rank": 0,
+      "phq_attendance": 520,
+      "entities": [
+        {
+          "formatted_address": "1374 West Peachtree Street Northwest\nAtlanta, GA 30309\nUnited States of America",
+          "entity_id": "32qAHQkrzG5DVJSDa56yaib",
+          "name": "Center Stage Atlanta - The Loft",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-08T18:20:22Z",
+      "first_seen": "2021-09-08T00:44:35Z",
+      "timezone": "America/New_York",
+      "location": [-84.3882896, 33.7921622],
+      "geo": {
+        "geometry": {
+          "coordinates": [-84.3882896, 33.7921622],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4197000", "4196508", "4184603"],
+        ["6295630", "6255149", "6252001", "4197000", "4191014", "4180439"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "42U4XiqQBUFvfTzPTH",
+      "title": "Tom Petty 70th Birthday Bash",
+      "description": "Tom Petty 70th Birthday Bash w/ Broken Hearts Tom Petty Tribute 8pm $12 advance $15 day of show",
+      "category": "community",
+      "labels": ["concert", "music"],
+      "rank": 46,
+      "local_rank": 68,
+      "aviation_rank": null,
+      "phq_attendance": 640,
+      "entities": [
+        {
+          "formatted_address": "910 Skipper Road\nTampa, FL 33613\nUnited States of America",
+          "entity_id": "ufqDP7X8xa5kB6ktKX3FPk",
+          "name": "Skipper's Smokehouse",
+          "type": "venue"
+        }
+      ],
+      "duration": 14100,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T03:55:00Z",
+      "updated": "2021-07-24T16:10:51Z",
+      "first_seen": "2021-07-24T16:09:51Z",
+      "timezone": "America/New_York",
+      "location": [-82.450652, 28.080958],
+      "geo": {
+        "geometry": {
+          "coordinates": [-82.450652, 28.080958],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4155751", "4158712", "7218830"],
+        ["6295630", "6255149", "6252001", "4155751", "4158712", "4174757"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "42gsWM86rW886CCbQ5",
+      "title": "Black Stone Cherry, Jared James Nichols, and The Georgia Thunderbolts",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 42,
+      "local_rank": 63,
+      "aviation_rank": 0,
+      "phq_attendance": 400,
+      "entities": [
+        {
+          "formatted_address": "Houston, TX 77058\nUnited States of America",
+          "entity_id": "7piKJcvjWA4Npi6zxxZNpd",
+          "name": "Scout Bar",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-24T21:45:23Z",
+      "first_seen": "2021-08-24T21:29:15Z",
+      "timezone": "America/Chicago",
+      "location": [-95.1032359, 29.5438649],
+      "geo": {
+        "geometry": {
+          "coordinates": [-95.1032359, 29.5438649],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4736286", "4696376", "4713813"],
+        ["6295630", "6255149", "6252001", "4736286", "4696376", "4699066"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "48nMizthL3LnErPt57",
+      "title": "Lake Street Dive with Allison Russell",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 65,
+      "local_rank": 93,
+      "aviation_rank": 0,
+      "phq_attendance": 5520,
+      "entities": [
+        {
+          "formatted_address": "4469 Stella Drive Northwest\nAtlanta, GA 30342\nUnited States of America",
+          "entity_id": "UsSNaCKrjbiQaPvVtWqF5j",
+          "name": "Chastain Park Amphitheatre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-07T18:59:49Z",
+      "first_seen": "2021-07-06T20:02:04Z",
+      "timezone": "America/New_York",
+      "location": [-84.3969586, 33.8769723],
+      "geo": {
+        "geometry": {
+          "coordinates": [-84.3969586, 33.8769723],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4197000", "4196508", "4217303"],
+        ["6295630", "6255149", "6252001", "4197000", "4191014", "4180439"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4BoMEaJuxHTzMEGq3f",
+      "title": "Christine Elise and Kuf Knotz",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "61 Endicott Street\nNorwood, MA 02062\nUnited States of America",
+          "entity_id": "37EHP8q2waPwuyV8sRu8UQQ",
+          "name": "Fallout Shelter",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-10T03:36:50Z",
+      "first_seen": "2021-09-10T03:13:44Z",
+      "timezone": "America/New_York",
+      "location": [-71.2193, 42.1804],
+      "geo": {
+        "geometry": {
+          "coordinates": [-71.2193, 42.1804],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "6254926", "4945455", "4955979"],
+        ["6295630", "6255149", "6252001", "6254926", "4945455", "4934664"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4Cu9DqYaktvniZ3mbf",
+      "title": "Thoughts Of A Colored Man",
+      "description": "",
+      "category": "performing-arts",
+      "labels": ["entertainment", "performing-arts"],
+      "rank": 42,
+      "local_rank": 43,
+      "aviation_rank": 0,
+      "phq_attendance": 387,
+      "entities": [
+        {
+          "formatted_address": "252 West 45th Street\nNew York, NY 10036\nUnited States of America",
+          "entity_id": "NPjGJZ8tzfzUhe3UtX4q8m",
+          "name": "Golden Theatre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T00:34:53Z",
+      "first_seen": "2021-09-17T00:25:25Z",
+      "timezone": "America/New_York",
+      "location": [-73.9879687, 40.7587209],
+      "geo": {
+        "geometry": {
+          "coordinates": [-73.9879687, 40.7587209],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5128594", "6332416"],
+        [
+          "6295630",
+          "6255149",
+          "6252001",
+          "5128638",
+          "5128594",
+          "7250946",
+          "5125771"
+        ]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4DjLVLPFzrmYaBsvQm",
+      "title": "AHL - Texas Stars vs Iowa Wild",
+      "description": "",
+      "category": "sports",
+      "labels": ["ice-hockey", "sport"],
+      "rank": 61,
+      "local_rank": 84,
+      "aviation_rank": 0,
+      "phq_attendance": 3660,
+      "entities": [
+        {
+          "formatted_address": "2100 Avenue of the Stars\nCedar Park, TX 78613\nUnited States of America",
+          "entity_id": "hhc8TxG5irJSKyw85RnNmr",
+          "name": "H-E-B Center at Cedar Park",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "predicted_end": "2021-10-17T02:40:00Z",
+      "updated": "2021-09-17T18:24:55Z",
+      "first_seen": "2021-07-25T13:53:24Z",
+      "timezone": "America/Chicago",
+      "location": [-97.8202272, 30.5413598],
+      "geo": {
+        "geometry": {
+          "coordinates": [-97.8202272, 30.5413598],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4736286", "4742143", "4739760"],
+        ["6295630", "6255149", "6252001", "4736286", "4742143", "4693342"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4P4ReDy6oZWWADHGtW",
+      "title": "Out Of The House Party w/ Club Leon",
+      "description": "",
+      "category": "performing-arts",
+      "labels": ["entertainment", "performing-arts"],
+      "rank": 32,
+      "local_rank": 40,
+      "aviation_rank": 0,
+      "phq_attendance": 132,
+      "entities": [
+        {
+          "formatted_address": "1616 North Wells Street\nChicago, IL 60614\nUnited States of America",
+          "entity_id": "HE96dHpiuJDbx896kBESFd",
+          "name": "The Second City -  e.t.c. Theater",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T00:51:08Z",
+      "first_seen": "2021-09-17T00:33:36Z",
+      "timezone": "America/Chicago",
+      "location": [-87.63537300000002, 41.91152599999999],
+      "geo": {
+        "geometry": {
+          "coordinates": [-87.63537300000002, 41.91152599999999],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4896861", "4888671", "4887398"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4UepFrYJt29GMB54NZ",
+      "title": "Ward Davis",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "27849 West Center Road\nWaterloo, NE 68069\nUnited States of America",
+          "entity_id": "3Zihzig5jZeuUUU62NLcuR",
+          "name": "Buck's Bar & Grill",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-08T21:26:36Z",
+      "first_seen": "2021-09-08T21:26:12Z",
+      "timezone": "America/Chicago",
+      "location": [-96.352048, 41.2334607],
+      "geo": {
+        "geometry": {
+          "coordinates": [-96.352048, 41.2334607],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5073708", "5067114", "5081075"],
+        ["6295630", "6255149", "6252001", "5073708", "5077708", "5081245"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "4ddYChJbFkj8ASZAcn",
+      "title": "DUELING DRAG DIVAS",
+      "description": "All LIVE Singing!  All New Show! Comic Celebrity Impression Show!  Tina Turner, Cher, Amy Winehouse, Dolly Parton, Judy Garland and more!",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [],
+      "duration": 3600,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T01:00:00Z",
+      "updated": "2021-07-09T09:03:21Z",
+      "first_seen": "2021-05-02T16:55:41Z",
+      "timezone": "America/New_York",
+      "location": [-70.6004097, 43.2482418],
+      "geo": {
+        "geometry": {
+          "coordinates": [-70.6004097, 43.2482418],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4971068", "4983621", "4974108"],
+        ["6295630", "6255149", "6252001", "4971068", "4983621", "4832342"]
+      ],
+      "state": "active",
+      "brand_safe": false,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "52KeQKWh8JqCiPLuzj",
+      "title": "A Tribute to 70s Rock: Foreplay",
+      "description": "",
+      "category": "community",
+      "labels": ["concert", "music"],
+      "rank": 44,
+      "local_rank": 64,
+      "aviation_rank": null,
+      "phq_attendance": 480,
+      "entities": [
+        {
+          "formatted_address": "19 West Market Street\nLeesburg, VA 20175\nUnited States of America",
+          "entity_id": "rZmRzXcq6P74PZy6B5sd6n",
+          "name": "Tally Ho Theater",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-16T23:19:28Z",
+      "first_seen": "2021-09-16T00:38:36Z",
+      "timezone": "America/New_York",
+      "location": [-77.5656196, 39.1156601],
+      "geo": {
+        "geometry": {
+          "coordinates": [-77.5656196, 39.1156601],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "6254928", "4770746", "4769125"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "57eFiwP4QqcwbmG5hD",
+      "title": "Taylor Tomlinson",
+      "description": "",
+      "category": "performing-arts",
+      "labels": ["entertainment", "performing-arts"],
+      "rank": 48,
+      "local_rank": 73,
+      "aviation_rank": null,
+      "phq_attendance": 816,
+      "entities": [
+        {
+          "formatted_address": "123 3rd Avenue Southeast\nCedar Rapids, IA 52401\nUnited States of America",
+          "entity_id": "phNGYzusKfPnsidpqmj5yc",
+          "name": "Paramount Theatre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T00:34:15Z",
+      "first_seen": "2021-09-17T00:30:09Z",
+      "timezone": "America/Chicago",
+      "location": [-91.66699059999996, 41.9766233],
+      "geo": {
+        "geometry": {
+          "coordinates": [-91.66699059999996, 41.9766233],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4862182", "4864924", "4854978"],
+        ["6295630", "6255149", "6252001", "4862182", "4864924", "4850751"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "584QXboQ9X3TgB2YjQ",
+      "title": "Pro Bull Riding (PBR): Pendleton Whisky Velocity Tour",
+      "description": "",
+      "category": "sports",
+      "labels": ["rodeo", "sport"],
+      "rank": 73,
+      "local_rank": 92,
+      "aviation_rank": null,
+      "phq_attendance": 13600,
+      "entities": [
+        {
+          "formatted_address": "233 Center Street\nDes Moines, IA 50309\nUnited States of America",
+          "entity_id": "ZyTdH9YWjZ2vV8PnABPsBT",
+          "name": "Wells Fargo Arena",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-18T19:02:43Z",
+      "first_seen": "2021-08-18T18:26:14Z",
+      "timezone": "America/Chicago",
+      "location": [-93.6210651, 41.59266229999999],
+      "geo": {
+        "geometry": {
+          "coordinates": [-93.6210651, 41.59266229999999],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4862182", "4871782", "4853828"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5BXcyVMqvQYc8joioC",
+      "title": "Johannes Linstead:  From Spain to Cuba",
+      "description": "From Spain to Cuba",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 44,
+      "local_rank": 65,
+      "aviation_rank": 0,
+      "phq_attendance": 525,
+      "entities": [
+        {
+          "formatted_address": "Belleville, ON K8N 2Z9\nCanada",
+          "entity_id": "rrW2f8ZM96GYGwmsBeBnPw",
+          "name": "The Empire Theatre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-06-30T05:25:50Z",
+      "first_seen": "2021-01-19T14:26:52Z",
+      "timezone": "America/Toronto",
+      "location": [-77.385605, 44.16723],
+      "geo": {
+        "geometry": {
+          "coordinates": [-77.385605, 44.16723],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "CA",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6251999", "6093943", "5897884"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5MK8jaMawRgVQwV249",
+      "title": "Silver Bullet",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 68,
+      "local_rank": 93,
+      "aviation_rank": 0,
+      "phq_attendance": 8373,
+      "entities": [
+        {
+          "formatted_address": "2002 Arena Parkway\nSaint Charles, MO 63303\nUnited States of America",
+          "entity_id": "388pFhypCeWVyU3x7kZH2TH",
+          "name": "The Family Arena",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-25T18:38:00Z",
+      "first_seen": "2021-08-25T01:53:03Z",
+      "timezone": "America/Chicago",
+      "location": [-90.50926090000002, 38.7477679],
+      "geo": {
+        "geometry": {
+          "coordinates": [-90.50926090000002, 38.7477679],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4398678", "4407074", "4413093"],
+        ["6295630", "6255149", "6252001", "4398678", "4406835", "4406831"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5Mmw8zMFfX8Yr3Caw6",
+      "title": "The Office! A Musical Parody",
+      "description": "",
+      "category": "performing-arts",
+      "labels": ["entertainment", "music", "performing-arts"],
+      "rank": 33,
+      "local_rank": 34,
+      "aviation_rank": 0,
+      "phq_attendance": 140,
+      "entities": [
+        {
+          "formatted_address": "1627 Broadway\nNew York, NY 10019\nUnited States of America",
+          "entity_id": "r7fZzu9HkEpnRiekX6xU3j",
+          "name": "The Theater Center",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-04T01:01:07Z",
+      "first_seen": "2021-09-04T00:39:57Z",
+      "timezone": "America/New_York",
+      "location": [-73.984513, 40.76144],
+      "geo": {
+        "geometry": {
+          "coordinates": [-73.984513, 40.76144],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5128594", "6332416"],
+        [
+          "6295630",
+          "6255149",
+          "6252001",
+          "5128638",
+          "5128594",
+          "7250946",
+          "5125771"
+        ]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5S7MKeDLqP8tc5AW2Z",
+      "title": "Nothing",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 50,
+      "local_rank": 61,
+      "aviation_rank": 0,
+      "phq_attendance": 960,
+      "entities": [
+        {
+          "formatted_address": "1026 Spring Garden Street\nPhiladelphia, PA 19123\nUnited States of America",
+          "entity_id": "8ZkgCAmqzjAX3Ypzk6qwKj",
+          "name": "Union Transfer",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-05-25T00:46:42Z",
+      "first_seen": "2021-05-19T18:23:22Z",
+      "timezone": "America/New_York",
+      "location": [-75.1553236, 39.9613876],
+      "geo": {
+        "geometry": {
+          "coordinates": [-75.1553236, 39.9613876],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "6254927", "5205788", "4560349"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5Wq5kjhxhzx5GQD6Vp",
+      "title": "Trace Adkins",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "del Lago Resort & Casino, 1133 New York 414\nWaterloo, NY 13165\nUnited States of America",
+          "entity_id": "GDQEDwzP8gNV4xKsfJRwFk",
+          "name": "Del Lago Resort and Casino",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-25T12:27:25Z",
+      "first_seen": "2021-08-25T12:26:59Z",
+      "timezone": "America/New_York",
+      "location": [-76.8454308, 42.9701217],
+      "geo": {
+        "geometry": {
+          "coordinates": [-76.8454308, 42.9701217],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5128638", "5137620", "5125652"],
+        ["6295630", "6255149", "6252001", "5128638", "5137620", "5143380"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5hytX2mA4V8QeGtFvT",
+      "title": "Titanic - the Artifact Exhibition",
+      "description": "Experience the wonder and tragedy of the world's most famous ocean-liner, Titanic. Viewed by more than 25 million people worldwide, the Exhibition is one of the highest attended in history. FACEMASKS REQUIRED.",
+      "category": "expos",
+      "labels": ["entertainment", "expo", "performing-arts"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "Las Vegas, NV 89109\nUnited States of America",
+          "entity_id": "n39ebSif3t6ULNNCMRKW9H",
+          "name": "Titanic: The Artifact Exhibition",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-24T17:38:35Z",
+      "first_seen": "2021-08-17T12:54:56Z",
+      "timezone": "America/Los_Angeles",
+      "location": [-115.175768, 36.095599],
+      "geo": {
+        "geometry": {
+          "coordinates": [-115.175768, 36.095599],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5509151", "5501879", "5500639"],
+        ["6295630", "6255149", "6252001", "5509151", "5501879", "5506956"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5kDNjxoW8B2ziDF8Rs",
+      "title": "In Real Life Comedy Tour",
+      "description": "An inherent risk of exposure to COVID-19 (corona virus) exists in any public place where people are present. COVID-19 is a contagious disease that can lead to severe illness and death. By purchasing or otherwise accepting a ticket to this Event, you are acknowledging that an inherent risk of exposure to COVID-19 exists in any public place where people are present. By attending the Event, you and any guests voluntarily assume all risks related to exposure to COVID-19 and agree not to hold event organizers, venue operators, managers and venue owners and their agents and their contractors, liable for any COVID-19 illness or injury in connection with you or your guests' attendance at the Event.",
+      "category": "performing-arts",
+      "labels": ["comedy", "entertainment", "performing-arts"],
+      "rank": 57,
+      "local_rank": 77,
+      "aviation_rank": 0,
+      "phq_attendance": 2304,
+      "entities": [
+        {
+          "formatted_address": "130 Fulton Street West\nGrand Rapids, MI 49503\nUnited States of America",
+          "entity_id": "gKrtrhCcur8p9sbZSC4FYu",
+          "name": "Van Andel Arena",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-16T23:53:32Z",
+      "first_seen": "2021-08-11T05:59:29Z",
+      "timezone": "America/Detroit",
+      "location": [-85.6715833, 42.962375],
+      "geo": {
+        "geometry": {
+          "coordinates": [-85.6715833, 42.962375],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5001836", "4998005", "4994358"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5rcr2fLFZb4cQYw9Fk",
+      "title": "Feria de las Rosas Ballet Folklórico Nuevo Jalisco",
+      "description": "Espectáculo que involucra la Danza, música de mariachi y la charrería para rendir un homenaje a la mujer de Jalisco, compartiendo bailes de 5 épocas del contexto social de Jalisco.",
+      "category": "performing-arts",
+      "labels": ["entertainment", "performing-arts"],
+      "rank": 45,
+      "local_rank": 53,
+      "aviation_rank": 0,
+      "phq_attendance": 534,
+      "entities": [
+        {
+          "formatted_address": "1451 Avenida Fray Antonio Alcalde\n44220 Guadalajara, Jalisco\nMexico",
+          "entity_id": "mt3rQbjfMj8amRR33H2aUW",
+          "name": "Art and Culture Forum",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-03T00:26:08Z",
+      "first_seen": "2021-09-03T00:10:32Z",
+      "timezone": "America/Mexico_City",
+      "location": [-103.3479625, 20.6998941],
+      "geo": {
+        "geometry": {
+          "coordinates": [-103.3479625, 20.6998941],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "MX",
+      "place_hierarchies": [
+        ["6295630", "6255149", "3996063", "4004156", "8582140", "3979620"],
+        ["6295630", "6255149", "3996063", "4004156", "8582219", "3979770"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5v3P7R5MVcNaC6jyUL",
+      "title": "Feist",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 29,
+      "local_rank": 39,
+      "aviation_rank": null,
+      "phq_attendance": 90,
+      "entities": [
+        {
+          "formatted_address": "1 Elgin Street\nOttawa, ON K1P 5W1\nCanada",
+          "entity_id": "KeLvBejUKgQ8zVuGp5CtCh",
+          "name": "National Arts Centre",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T12:21:04Z",
+      "first_seen": "2021-07-26T21:30:00Z",
+      "timezone": "America/Toronto",
+      "location": [-75.69338210000001, 45.4232798],
+      "geo": {
+        "geometry": {
+          "coordinates": [-75.69338210000001, 45.4232798],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "CA",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6251999", "6093943", "6061551"],
+        ["6295630", "6255149", "6251999", "6093943", "6094817"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "5w3e4ViqMCosttov95",
+      "title": "Damon Wayans",
+      "description": "Danon Wayans live at Fitz Casino for two shows. Must be 21yrs & up to attend. Hotel packages are available by calling 662-363-5825.",
+      "category": "performing-arts",
+      "labels": ["comedy", "entertainment", "performing-arts"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "711 Lucky Lane\nRobinsonville, MS 38664\nUnited States of America",
+          "entity_id": "33wXyVDjtuzmTkSAHc8nch",
+          "name": "Fitz Tunica Casino & Hotel",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-23T09:09:53Z",
+      "first_seen": "2021-07-23T09:01:53Z",
+      "timezone": "America/Chicago",
+      "location": [-90.3583129, 34.8397282],
+      "geo": {
+        "geometry": {
+          "coordinates": [-90.3583129, 34.8397282],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4436296", "4448921", "8481844"],
+        ["6295630", "6255149", "6252001", "4436296", "4448921", "4448894"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "63warsMSyMpgtMtmjH",
+      "title": "Chelydra",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [
+        {
+          "formatted_address": "Cozumel\nMexico City\nMexico",
+          "entity_id": "39VSi9dNBrMZP9jb8uVfhzg",
+          "name": "Cozumel Doce",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-08-07T19:51:25Z",
+      "first_seen": "2021-07-28T17:19:25Z",
+      "timezone": "America/Mexico_City",
+      "location": [-99.17092, 19.41908],
+      "geo": {
+        "geometry": {
+          "coordinates": [-99.17092, 19.41908],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "MX",
+      "place_hierarchies": [
+        ["6295630", "6255149", "3996063", "3527646", "8379133", "3827406"],
+        ["6295630", "6255149", "3996063", "3527646", "8379372", "3530597"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6CsrJheiLEjP8KVkPa",
+      "title": "Yellow and Co. presents Whiskey Magician -Richard Darshwood",
+      "description": "Join us for this adult only Magic show and social hour featuring Richard Darshwood!",
+      "category": "performing-arts",
+      "labels": ["concert", "music", "performing-arts"],
+      "rank": 0,
+      "local_rank": 0,
+      "aviation_rank": null,
+      "phq_attendance": null,
+      "entities": [],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-02T13:57:14Z",
+      "first_seen": "2021-09-02T13:56:59Z",
+      "timezone": "America/Chicago",
+      "location": [-88.40071359999999, 40.1947678],
+      "geo": {
+        "geometry": {
+          "coordinates": [-88.40071359999999, 40.1947678],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4896861", "4887163", "4900885"],
+        ["6295630", "6255149", "6252001", "4896861", "4887163", "4914570"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6JM2sa4Yg89Rmpvhm8",
+      "title": "Winemaker Confidential",
+      "description": "Come for a 90 minute behind the scenes tour and tasting through RIKARD Wines new winery at Nashdale.\n\nOur winemakers Will & Paul will guide you through the winemaking process, tasting wines from all stages of their production. You'll sample from oak barrels, stainless steel tanks and finish with a guided tasting of our newly bottled 2021 wines.\n\nThe opportunity to learn about all things wine from 2 highly-experienced, well-travelled & multi-award winning winemakers is all part of the experience. Vineyards, varieties, clones, texture, complexity, cellaring, minimal intervention winemaking - we're passionate about it all & look forward to sharing our knowledge with you.\n\nAvailable Friday-Mondays throughout October 11am-3.30pm.",
+      "category": "festivals",
+      "labels": ["community", "festival"],
+      "rank": 45,
+      "local_rank": 84,
+      "aviation_rank": null,
+      "phq_attendance": 562,
+      "entities": [
+        {
+          "entity_id": "UDDxFVNpSaXabw9ZH7fr7d",
+          "name": "Winemaker Confidential",
+          "type": "event-group",
+          "category": "festivals",
+          "labels": ["community", "event-group", "festival", "recurring"]
+        }
+      ],
+      "duration": 16200,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T04:30:00Z",
+      "updated": "2021-07-07T07:07:56Z",
+      "first_seen": "2021-07-07T06:41:45Z",
+      "timezone": "Australia/Sydney",
+      "location": [148.9861241, -33.3170324],
+      "geo": {
+        "geometry": {
+          "coordinates": [148.9861241, -33.3170324],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "AU",
+      "place_hierarchies": [
+        ["6295630", "6255151", "2077456", "2155400", "7839704", "2160254"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6Q4oHQiPmtncF2eaoA",
+      "title": "Liga Nacional de Baloncesto Profesional - Libertadores vs Panteras",
+      "description": "",
+      "category": "sports",
+      "labels": ["basketball", "sport"],
+      "rank": 45,
+      "local_rank": 56,
+      "aviation_rank": null,
+      "phq_attendance": 562,
+      "entities": [],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "predicted_end": "2021-10-17T01:45:00Z",
+      "updated": "2021-08-18T21:44:14Z",
+      "first_seen": "2021-07-17T09:16:27Z",
+      "timezone": "America/Mexico_City",
+      "location": [-100.3949279, 20.59847011229803],
+      "geo": {
+        "geometry": {
+          "coordinates": [-100.3949279, 20.59847011229803],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "MX",
+      "place_hierarchies": [
+        ["6295630", "6255149", "3996063", "3520914", "8583275", "3991164"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6RRduchje44MDbq4uZ",
+      "title": "Landon Conrath",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 32,
+      "local_rank": 51,
+      "aviation_rank": 0,
+      "phq_attendance": 120,
+      "entities": [
+        {
+          "formatted_address": "328 Pearl St (4th)\nLa Crosse, WI 54601\nUnited States",
+          "entity_id": "7r4N9vibdV5ZGbwBj3JEAb",
+          "name": "Warehouse",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-15T21:33:01Z",
+      "first_seen": "2021-09-15T21:31:10Z",
+      "timezone": "America/Chicago",
+      "location": [-91.251906, 43.811581],
+      "geo": {
+        "geometry": {
+          "coordinates": [-91.251906, 43.811581],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5279468", "5258961", "5258957"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6X7uvgehVTzSchXe9R",
+      "title": "The Ladies of…featuring James Hall",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 34,
+      "local_rank": 57,
+      "aviation_rank": 0,
+      "phq_attendance": 160,
+      "entities": [
+        {
+          "formatted_address": "Nashville, TN 37203\nUnited States of America",
+          "entity_id": "KmJQZVVg9st68ZBcfHnJwh",
+          "name": "The Basement",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-27T15:48:17Z",
+      "first_seen": "2021-07-27T12:41:45Z",
+      "timezone": "America/Chicago",
+      "location": [-86.778546, 36.137108],
+      "geo": {
+        "geometry": {
+          "coordinates": [-86.778546, 36.137108],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4662168", "4617305", "4605665"],
+        ["6295630", "6255149", "6252001", "4662168", "4617305", "4644585"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6e4xtECDxErU6WNvu5",
+      "title": "Dolphin Spotting River Cruise",
+      "description": "Our Vessel, The PortAdVenture is ready to provide Port Macquarie and the Hastings a variety of attractions and entertainment. \n\nOur regular cruises will include;\n\n*Daily Dolphin Spotting cruises\n*Daily Dolphin Sunset cruises\n\nWe have an outstanding reputation on Sydney Harbour for professional and reliable service, high standard of catering and constantly receive positive feedback from our customers with high level of repeat business. \n\nWant a day, night or special occasion with a difference. Want that special and personal touch, then call their office and speak to the cruise director. They can tailor make your cruise to meet your needs.\n\nVessel inspections welcome.\n\nLook forward to seeing you on board the Port AdVenture",
+      "category": "community",
+      "labels": ["community"],
+      "rank": 45,
+      "local_rank": 69,
+      "aviation_rank": null,
+      "phq_attendance": 562,
+      "entities": [
+        {
+          "entity_id": "eDyYANwVq76k9S3XbBwXmW",
+          "name": "Dolphin Spotting River Cruise",
+          "type": "event-group",
+          "category": "community",
+          "labels": ["community", "event-group", "recurring"]
+        }
+      ],
+      "duration": 7200,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T02:00:00Z",
+      "updated": "2021-08-05T17:21:11Z",
+      "first_seen": "2021-08-04T06:33:06Z",
+      "timezone": "Australia/Sydney",
+      "location": [152.90578723925628, -31.42935394264948],
+      "geo": {
+        "geometry": {
+          "coordinates": [152.90578723925628, -31.42935394264948],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "AU",
+      "place_hierarchies": [
+        ["6295630", "6255151", "2077456", "2155400", "7839765", "2152659"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6hAfyAcJFBGduX9Ncc",
+      "title": "Anglican Sunday Service",
+      "description": "Join for the weekly service at St Georges Anglican Church. Weekly eucharist is celebrated and children are welcome to take communion. Gluten free wafers are available on request.  Enjoy lovely organ music played by the Musical Director.  St Georges Anglican Church is COVID safe. Please join for a cuppa and chat after the service. All welcome.",
+      "category": "festivals",
+      "labels": ["family", "festival"],
+      "rank": 45,
+      "local_rank": 73,
+      "aviation_rank": null,
+      "phq_attendance": 562,
+      "entities": [
+        {
+          "entity_id": "j2YVuZ5qTMbJb8HLHGbsA4",
+          "name": "Anglican Sunday Service",
+          "type": "event-group",
+          "category": "festivals",
+          "labels": ["event-group", "family", "festival", "recurring"]
+        }
+      ],
+      "duration": 3600,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T01:00:00Z",
+      "updated": "2021-05-24T06:36:59Z",
+      "first_seen": "2021-05-24T06:31:21Z",
+      "timezone": "Australia/Melbourne",
+      "location": [145.4429492, -36.0934607],
+      "geo": {
+        "geometry": {
+          "coordinates": [145.4429492, -36.0934607],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "AU",
+      "place_hierarchies": [
+        ["6295630", "6255151", "2077456", "2145234", "7839808", "2154723"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6hNXLpFVhWJVoRFrYU",
+      "title": "Night of the Living Drag",
+      "description": "Violet Chachki guides unsuspecting guests through the untimely deaths of RuPaul's Drag Race alum Aquaria, Jaida Essence Hall, Gottmik, Kandy Muse, Plastique, Rose and Kim Chi before summoning them back from the dead as flesh craving drag zombies. The 10th Annual 'Night of the Living Drag' is presented by Voss Events. Please Note: Lineup subject to change. Purchase a Meet & Greet Package and enjoy a private meet and greet with undead queens prior to the show! Includes a customized VIP laminate. Guests must arrive by 6PM and present proof of COVID-19 vaccination along with personal identification.",
+      "category": "performing-arts",
+      "labels": ["entertainment", "fashion", "performing-arts"],
+      "rank": 24,
+      "local_rank": 30,
+      "aviation_rank": 0,
+      "phq_attendance": 50,
+      "entities": [
+        {
+          "formatted_address": "1 Front Street East\nToronto, ON M5E 1B2\nCanada",
+          "entity_id": "CqRUyYiNLwSSH2vU4MtZxD",
+          "name": "Sony Centre for the Performing Arts",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-02T01:20:45Z",
+      "first_seen": "2021-09-01T00:08:26Z",
+      "timezone": "America/Toronto",
+      "location": [-79.3760205, 43.6466723],
+      "geo": {
+        "geometry": {
+          "coordinates": [-79.3760205, 43.6466723],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "CA",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6251999", "6093943", "7870795"],
+        ["6295630", "6255149", "6251999", "6093943", "6167865"]
+      ],
+      "state": "active",
+      "brand_safe": false,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6hxvNYCaTUbA9aEh4G",
+      "title": "Rival Sons with Dorothy",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 55,
+      "local_rank": 76,
+      "aviation_rank": 0,
+      "phq_attendance": 1760,
+      "entities": [
+        {
+          "formatted_address": "2115 Woodward Avenue\nDetroit, MI 48201\nUnited States of America",
+          "entity_id": "38AWApXWmd8XxjAQSuLRXCR",
+          "name": "The Fillmore Detroit",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-30T23:53:32Z",
+      "first_seen": "2021-07-20T21:40:19Z",
+      "timezone": "America/Detroit",
+      "location": [-83.0517268, 42.3378093],
+      "geo": {
+        "geometry": {
+          "coordinates": [-83.0517268, 42.3378093],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5001836", "5014227", "4990729"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6mG7Lty3Dyk59J5Jrw",
+      "title": "Aaron Lewis",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 56,
+      "local_rank": 78,
+      "aviation_rank": 0,
+      "phq_attendance": 1920,
+      "entities": [
+        {
+          "formatted_address": "2901 Grand River Avenue\nDetroit, MI 48201\nUnited States of America",
+          "entity_id": "cnqS9w6tjSzV35qJyvJ3dj",
+          "name": "Sound Board at MotorCity Casino Hotel",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-02T19:45:11Z",
+      "first_seen": "2021-09-02T01:23:12Z",
+      "timezone": "America/Detroit",
+      "location": [-83.0671065, 42.3383481],
+      "geo": {
+        "geometry": {
+          "coordinates": [-83.0671065, 42.3383481],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "5001836", "5014227", "4990729"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6sA86RWrE4nciDcHCH",
+      "title": "Watchhouse",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 40,
+      "local_rank": 59,
+      "aviation_rank": null,
+      "phq_attendance": 307,
+      "entities": [
+        {
+          "formatted_address": "801 Red River Street\nAustin, TX 78701\nUnited States of America",
+          "entity_id": "32gX5vjfHqwMXm393kLdmR6",
+          "name": "Stubb's Bar-B-Q",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-09-17T12:19:50Z",
+      "first_seen": "2021-05-25T18:26:20Z",
+      "timezone": "America/Chicago",
+      "location": [-97.7362579, 30.2685007],
+      "geo": {
+        "geometry": {
+          "coordinates": [-97.7362579, 30.2685007],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4736286", "4737316", "4671654"]
+      ],
+      "state": "active",
+      "brand_safe": true,
+      "private": false
+    },
+    {
+      "relevance": 0,
+      "id": "6vAB44kYoEYPTHQuXJ",
+      "title": "Whores., Vincas, and Harmacy",
+      "description": "",
+      "category": "concerts",
+      "labels": ["concert", "music"],
+      "rank": 38,
+      "local_rank": 61,
+      "aviation_rank": 0,
+      "phq_attendance": 240,
+      "entities": [
+        {
+          "formatted_address": "488 Flat Shoals Avenue Southeast\nAtlanta, GA 30316\nUnited States of America",
+          "entity_id": "3AiWAmdkZ88GE2neqat2SGU",
+          "name": "The EARL",
+          "type": "venue"
+        }
+      ],
+      "duration": 0,
+      "start": "2021-10-17T00:00:00Z",
+      "end": "2021-10-17T00:00:00Z",
+      "updated": "2021-07-23T20:19:37Z",
+      "first_seen": "2021-07-23T20:02:42Z",
+      "timezone": "America/New_York",
+      "location": [-84.3459247, 33.74098],
+      "geo": {
+        "geometry": {
+          "coordinates": [-84.3459247, 33.74098],
+          "type": "Point"
+        }
+      },
+      "scope": "locality",
+      "country": "US",
+      "place_hierarchies": [
+        ["6295630", "6255149", "6252001", "4197000", "4191014", "4192567"],
+        ["6295630", "6255149", "6252001", "4197000", "4191014", "4180439"]
+      ],
+      "state": "active",
+      "brand_safe": false,
+      "private": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .main_screen {
+    @apply max-w-7xl m-auto p-5;
+  }
+  .h1 {
+    @apply m-5 text-2xl font-semibold tracking-widest uppercase;
+  }
+}
