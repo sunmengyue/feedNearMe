@@ -1,10 +1,8 @@
 import React from 'react';
-import { BookmarkIcon } from '@heroicons/react/outline';
 
 const EventCard = ({ event, imgSrc }) => {
   return (
-    <div className="flex justify-between py-4 px-6 border-b first:border-t cursor-pointer hover:opacity-80 hover:shadow-lg hover:-translate-y-2 transform transition-all sm:flex-row-reverse md:justify-evenly">
-      <BookmarkIcon className="hidden sm:block h-5 stroke-1 text-cust-red cursor-pointer flex-shrink-0" />
+    <div className="flex justify-between py-4 px-6 border-b first:border-t cursor-pointer hover:opacity-80 hover:shadow-lg hover:-translate-y-2 transform transition-all sm:flex-row-reverse md:justify-evenly bg-white bg-opacity-25">
       <div className="flex flex-col sm:w-96 ">
         <h4 className="text-custBlack font-main-text text-xs">
           {`${event.updated.substring(0, 10)}   ${event.updated.substring(
@@ -22,14 +20,13 @@ const EventCard = ({ event, imgSrc }) => {
           ))}
         </div>
       </div>
-      <div className="flex flex-col items-end flex-shrink-0">
+      <div className="flex-shrink-0">
         <img
           src={imgSrc}
           width="150px"
           height="48px"
           className="rounded-xl mb-3 sm:mr-6"
         />
-        <BookmarkIcon className="h-5 stroke-1 text-cust-red cursor-pointer sm:hidden" />
       </div>
     </div>
   );

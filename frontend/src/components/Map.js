@@ -14,8 +14,8 @@ const Map = ({ events }) => {
   const center = getCenter(coordinates);
 
   const [viewPort, setviewPort] = useState({
-    width: '580px',
-    height: '58vh',
+    width: '100%',
+    height: '60vh',
     latitude: center.latitude,
     longitude: center.longitude,
     zoom: 0,

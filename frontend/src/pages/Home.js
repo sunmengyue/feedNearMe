@@ -10,8 +10,8 @@ const Home = ({ events }) => {
         {/* current events */}
         <div>
           <h1 className="h1 text-cust-black font-header">Current Events</h1>
-          <div className="lg:flex lg:justify-between">
-            <section className="mb-8">
+          <div className="md:relative">
+            <section className="mb-8 md:absolute z-10">
               {events.slice(0, 4).map((event, idx) => (
                 <EventCard
                   key={event.id}
@@ -20,13 +20,13 @@ const Home = ({ events }) => {
                 />
               ))}
             </section>
-            <section className="w-full lg:ml-6 flex justify-center">
+            <section className="hidden md:block w-full">
               <Map events={events} />
             </section>
           </div>
         </div>
         {/* upcoming events */}
-        <section>
+        <section className="mt-12">
           <h1 className="h1 text-cust-black font-header">Upcoming Events</h1>
           <EventsCarousel events={events} />
         </section>
